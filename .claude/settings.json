@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m pytest agents/pipeline/tests/unit/test_contribution_processing_lineage.py -x -q)",
+      "Bash(bash bin/screenshot.sh*)"
+    ]
+  }
+}
